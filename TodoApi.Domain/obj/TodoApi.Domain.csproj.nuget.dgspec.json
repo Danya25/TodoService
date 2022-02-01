@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Worker\\Desktop\\Proj\\TodoApi.Domain\\TodoApi.Domain.csproj": {}
+    "C:\\Users\\Worker\\TodoService\\TodoApi.Domain\\TodoApi.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Worker\\Desktop\\Proj\\TodoApi.Domain\\TodoApi.Domain.csproj": {
+    "C:\\Users\\Worker\\TodoService\\TodoApi.Domain\\TodoApi.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Worker\\Desktop\\Proj\\TodoApi.Domain\\TodoApi.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Worker\\TodoService\\TodoApi.Domain\\TodoApi.Domain.csproj",
         "projectName": "TodoApi.Domain",
-        "projectPath": "C:\\Users\\Worker\\Desktop\\Proj\\TodoApi.Domain\\TodoApi.Domain.csproj",
+        "projectPath": "C:\\Users\\Worker\\TodoService\\TodoApi.Domain\\TodoApi.Domain.csproj",
         "packagesPath": "C:\\Users\\Worker\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Worker\\Desktop\\Proj\\TodoApi.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Worker\\TodoService\\TodoApi.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Worker\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "r0ZH0WH0hSB3FLOEyt0SXJc3TCN/A5xc1bxlcd6IlmqqROyR7VUMvlo8W3bPGwpyOhDfseCwU3TXIYj89PFBqQ==",
+  "dgSpecHash": "xrJNPZ5TRG05kOlpexyej29wVBcmV82RdeoBl5uPPFresI/vYRSriwTOzHew4j7dtCBI1RWq5AXS34raCgPpTw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Worker\\Desktop\\Proj\\TodoApi.DAL\\TodoApi.DAL.csproj",
+  "projectFilePath": "C:\\Users\\Worker\\TodoService\\TodoApi.DAL\\TodoApi.DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Worker\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Worker\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",

@@ -5691,11 +5691,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Worker\\Desktop\\Proj\\TodoApi.Services\\TodoApi.Services.csproj",
+      "projectUniqueName": "C:\\Users\\Worker\\TodoService\\TodoApi.Services\\TodoApi.Services.csproj",
       "projectName": "TodoApi.Services",
-      "projectPath": "C:\\Users\\Worker\\Desktop\\Proj\\TodoApi.Services\\TodoApi.Services.csproj",
+      "projectPath": "C:\\Users\\Worker\\TodoService\\TodoApi.Services\\TodoApi.Services.csproj",
       "packagesPath": "C:\\Users\\Worker\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Worker\\Desktop\\Proj\\TodoApi.Services\\obj\\",
+      "outputPath": "C:\\Users\\Worker\\TodoService\\TodoApi.Services\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Worker\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5712,11 +5712,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Worker\\Desktop\\Proj\\TodoApi.DAL\\TodoApi.DAL.csproj": {
-              "projectPath": "C:\\Users\\Worker\\Desktop\\Proj\\TodoApi.DAL\\TodoApi.DAL.csproj"
+            "C:\\Users\\Worker\\TodoService\\TodoApi.DAL\\TodoApi.DAL.csproj": {
+              "projectPath": "C:\\Users\\Worker\\TodoService\\TodoApi.DAL\\TodoApi.DAL.csproj"
             },
-            "C:\\Users\\Worker\\Desktop\\Proj\\TodoApi.Domain\\TodoApi.Domain.csproj": {
-              "projectPath": "C:\\Users\\Worker\\Desktop\\Proj\\TodoApi.Domain\\TodoApi.Domain.csproj"
+            "C:\\Users\\Worker\\TodoService\\TodoApi.Domain\\TodoApi.Domain.csproj": {
+              "projectPath": "C:\\Users\\Worker\\TodoService\\TodoApi.Domain\\TodoApi.Domain.csproj"
             }
           }
         }

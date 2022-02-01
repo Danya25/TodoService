@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Worker\\Desktop\\Proj\\TodoApi.DAL\\TodoApi.DAL.csproj": {}
+    "C:\\Users\\Worker\\TodoService\\TodoApi.DAL\\TodoApi.DAL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Worker\\Desktop\\Proj\\TodoApi.DAL\\TodoApi.DAL.csproj": {
+    "C:\\Users\\Worker\\TodoService\\TodoApi.DAL\\TodoApi.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Worker\\Desktop\\Proj\\TodoApi.DAL\\TodoApi.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\Worker\\TodoService\\TodoApi.DAL\\TodoApi.DAL.csproj",
         "projectName": "TodoApi.DAL",
-        "projectPath": "C:\\Users\\Worker\\Desktop\\Proj\\TodoApi.DAL\\TodoApi.DAL.csproj",
+        "projectPath": "C:\\Users\\Worker\\TodoService\\TodoApi.DAL\\TodoApi.DAL.csproj",
         "packagesPath": "C:\\Users\\Worker\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Worker\\Desktop\\Proj\\TodoApi.DAL\\obj\\",
+        "outputPath": "C:\\Users\\Worker\\TodoService\\TodoApi.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Worker\\AppData\\Roaming\\NuGet\\NuGet.Config",
